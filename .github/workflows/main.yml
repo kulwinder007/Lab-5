@@ -1,4 +1,4 @@
-name: CI Publish, with security check using Snyk
+name: Kulwinder-Lab5 - CI Publish, with security check using Snyk
 
 # Controls when the workflow will run
 on:
